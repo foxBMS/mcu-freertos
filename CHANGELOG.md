@@ -1,5 +1,12 @@
 # foxBMS Change Log
 
+## Release 1.1.0
+
+- updated license header
+- updated wscripts to build specific files only for primary/secondary
+- moved sdram from common repository to primary repository
+- updated README.md
+
 ## Release 1.0.0
 
 - renamed repository from ``FreeRTOS`` to ``mcu-freertos``.
